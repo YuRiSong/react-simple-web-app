@@ -1,5 +1,4 @@
 ## This is simple-react-web-CRUD-app
 
 ### initial screen
-https://user-images.githubusercontent.com/50606729/123929309-ada72b80-d9c9-11eb-8e08-114a35452308.png
-
+![image](https://user-images.githubusercontent.com/50606729/123930076-5bb2d580-d9ca-11eb-8269-a435696931fe.png)
